@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coins
+  - Water
+  - Trap
+  - NPC
+  - Enemy
+  - background
+  - menu
+  - play
+  - boxQ
+  - score
+  - boxQ2
+  - boxQ3
+  - boxQ4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Enemy
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 848788155
+    locked: 0
+  - name: play
+    uniqueID: 1874404979
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1632496695
+    locked: 0
+  - name: Foreground
+    uniqueID: 670205133
+    locked: 0
+  - name: menu
+    uniqueID: 1137714765
+    locked: 0
+  - name: score
+    uniqueID: 3932187815
+    locked: 0
